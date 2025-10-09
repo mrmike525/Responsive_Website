@@ -22,7 +22,7 @@ function addToCart(name) {
     }
 }
 
-const container1 = document.querySelector('body')
+const container1 = document.querySelector('main')
 
 container1.addEventListener('click', function(event){
     event.preventDefault();
